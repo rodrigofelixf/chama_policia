@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174223083463",
+    "project_id": "chama-policia",
+    "storage_bucket": "chama-policia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174223083463:android:80086ca3a1f837e31cbbe2",
+        "android_client_info": {
+          "package_name": "br.com.formatura.chamapolicia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174223083463-5d5sbdpq2i2ptks241pe01jfpge4b5g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.formatura.chamapolicia",
+            "certificate_hash": "c4fe13920d68135d3ea49a9661d27a5211cd0adc"
+          }
+        },
+        {
+          "client_id": "174223083463-k9plt43b8pj3n8aaoq3m49g857iu8s9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjI81hnimxBv4wsHxvoBFJZwVmCwmPdwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174223083463-k9plt43b8pj3n8aaoq3m49g857iu8s9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
